@@ -1,0 +1,112 @@
+######   4EXT RECOVERY TOUCH - THEME SETTINGS  ######
+
+
+
+
+## min value for a color is 0                      
+## max value for a color is 255                    
+
+
+text.red = 255
+text.green = 215
+text.blue = 165
+text.alpha = 254
+menu.red = 255
+menu.green = 255
+menu.blue = 255
+menu.alpha = 230
+status.text.red = 0
+status.text.green = 0
+status.text.blue = 0
+status.text.alpha = 200
+status.bg.red = 255
+status.bg.green = 222
+status.bg.blue = 165
+status.bg.alpha = 254
+title.text.red = 0
+title.text.green = 0
+title.text.blue = 0
+title.text.alpha = 200
+title.bg.red = 192
+title.bg.green = 192
+title.bg.blue = 192
+title.bg.alpha = 255
+button.enabled.frame.red = 255
+button.enabled.frame.green = 255
+button.enabled.frame.blue = 255
+button.enabled.frame.alpha = 170
+button.disabled.frame.red = 248
+button.disabled.frame.green = 25
+button.disabled.frame.blue = 12
+button.disabled.frame.alpha = 200
+button.1.background.red = 255
+button.1.background.green = 255
+button.1.background.blue = 255
+button.1.background.alpha = 125
+button.1.background.pressed.red = 120
+button.1.background.pressed.green = 120
+button.1.background.pressed.blue = 120
+button.1.background.pressed.alpha = 100
+button.2.background.red = 255
+button.2.background.green = 255
+button.2.background.blue = 255
+button.2.background.alpha = 125
+button.2.background.pressed.red = 120
+button.2.background.pressed.green = 120
+button.2.background.pressed.blue = 120
+button.2.background.pressed.alpha = 100
+button.disabled.background.red = 255
+button.disabled.background.green = 255
+button.disabled.background.blue = 255
+button.disabled.background.alpha = 125
+button.disabled.overlay.red = 255
+button.disabled.overlay.green = 255
+button.disabled.overlay.blue = 255
+button.disabled.overlay.alpha = 170
+bar.background.overlay.red = 0
+bar.background.overlay.green = 0
+bar.background.overlay.blue = 0
+bar.background.overlay.alpha = 190
+menu.row.even.red = 0
+menu.row.even.green = 0
+menu.row.even.blue = 0
+menu.row.even.alpha = 60
+menu.row.selected.red = 190
+menu.row.selected.green = 190
+menu.row.selected.blue = 190
+menu.row.selected.alpha = 120
+menu.row.selected.text.red = 60
+menu.row.selected.text.green = 60
+menu.row.selected.text.blue = 60
+menu.row.selected.text.alpha = 245
+menu.row.frame.red = 255
+menu.row.frame.green = 255
+menu.row.frame.blue = 255
+menu.row.frame.alpha = 110
+text.sep.red = 255
+text.sep.green = 215
+text.sep.blue = 165
+text.sep.alpha = 255
+background.default.overlay.alpha = 40
+background.disabled.overlay.alpha = 80
+menu.row.height = 82
+text.sep.width = 4
+button.frame.width = 3
+button.height = 82
+button.ok.x1 = 160
+button.ok.x2 = 320
+button.yes.x1 = 68
+button.yes.x2 = 205
+button.no.x1 = 275
+button.no.x2 = 412
+button.disabled.off = yes
+menu.main.text.show = yes
+progress.indeterminate.frame.width = 276
+progress.indeterminate.frame.height = 128
+progress.indeterminate.frame.count = 22
+progress.indeterminate.frame.delay = 50
+
+
+
+########## END - 4EXT RECOVERY THEME PROPERTIES ##########
+
